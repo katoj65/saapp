@@ -1,0 +1,34 @@
+{
+
+"reports":[
+{"id":1,"name":"Expired Licenses"},
+{"id":2,"name":"Refused to be Assessed"},
+{"id":3,"name":"Violation of Copyright Laws"},
+{"id":4,"name":"Request for Enforcement"},
+{"id":5,"name":"Document Forgery"},
+{"id":6,"name":"Harrasment of Officer"}
+
+],
+
+"documents":[
+{"id":1,"name":"Demand Notes"},
+{"id":2,"name":"Invoices"},
+{"id":3,"name":"Reminders"},
+{"id":4,"name":"License Verification"}
+
+],
+
+"ura":[
+{"id":1,"name":"URA Trading License"},
+{"id":2,"name":"Report Concert"}
+]
+
+
+
+
+
+
+
+
+
+}

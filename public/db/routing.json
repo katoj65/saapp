@@ -1,0 +1,30 @@
+
+{
+"route":[
+
+{"id":1,"date":"01 - Mar 2020","from":"Kampala","to":"Jinja Round about"},
+{"id":2,"date":"01 - Mar 2020","from":"Namirembe road","to":"Nakulbye"},
+{"id":3,"date":"01 - Mar 2020","from":"Wandegeya","to":"Makerere"},
+{"id":4,"date":"01 - Mar 2020","from":"Kawempe","to":"Nansana"},
+{"id":5,"date":"01 - Mar 2020","from":"Mutundwe","to":"Masaka road"},
+{"id":6,"date":"01 - Mar 2020","from":"Najjanankumbi","to":"Makinye"},
+{"id":7,"date":"01 - Mar 2020","from":"Makindye","to":"Salama road"},
+{"id":8,"date":"01 - Mar 2020","from":"Salaama","to":"Munyonyo"},
+{"id":9,"date":"01 - Mar 2020","from":"Munyonyo","to":"Muyenga"},
+{"id":10,"date":"02 - Mar 2020","from":"Rubaga","to":"Mengo"},
+{"id":11,"date":"01 - Mar 2020","from":"Mengo","to":"Masanaffu"},
+{"id":12,"date":"01 - Mar 2020","from":"Mpererwe","to":"Kitezi road"},
+{"id":13,"date":"01 - Mar 2020","from":"Namasuba","to":"Kajansi"}
+
+
+]
+
+
+
+
+
+
+
+
+
+}

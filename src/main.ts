@@ -22,11 +22,47 @@ import '@ionic/vue/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
+import { createStore } from 'vuex';
+
+
+// Create a new store instance.
+const store = createStore({
+  state () {
+    return {
+      count: 0,
+      user:null,
+      assessment:null,
+      report:null,
+      routing:null,
+
+
+
+    }
+  },
+  mutations: {
+    increment (state) {
+      state.count++
+    }
+  }
+});
+
+
+
+
+
+
+
+import { StatusBar } from '@capacitor/status-bar';
+StatusBar.setBackgroundColor({color:'#C53683'});
+
+
+
 
 const app = createApp(App)
   .use(IonicVue)
+  .use(store)
   .use(router);
-  
+
 router.isReady().then(() => {
   app.mount('#app');
 });

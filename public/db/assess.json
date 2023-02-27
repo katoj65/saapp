@@ -1,0 +1,23 @@
+{
+"entity":[
+{"id":1,"name":"Aircraft","code":"V","count":10},
+{"id":2,"name":"Amusiment Arcades, Parks, Fair grounds","code":"AA","count":12},
+{"id":3,"name":"Shops, Store, Office, Showroom, Gym, Bank","code":"S","count":30},
+{"id":4,"name":"Bar, Gardens, Pub","code":"B1","count":5},
+{"id":5,"name":"Beaches, Open Air premises","code":"BOA","count":1},
+{"id":6,"name":"Blank Tape Levy","code":"BLT","count":4},
+{"id":7,"name":"Clubs","code":"J","count":6},
+{"id":8,"name":"Disquotheques and Dance Halls","code":"D","count":1},
+{"id":9,"name":"Hair dressing saloons, Barbar","code":"HD","count":0},
+{"id":10,"name":"Hotels and Restaurants","code":"H2","count":8},
+{"id":12,"name":"Guest Houses and Multi-Roomed Premises","code":"H1","count":9},
+{"id":13,"name":"Juke Boxes","code":"JB","count":123},
+{"id":14,"name":"Light Music Concerts","code":"PC","count":1},
+{"id":15,"name":"Light Music Performance","code":"H3","count":87},
+{"id":16,"name":"Memory Cards and Memory Sticks","code":"M1","count":1}
+
+]
+
+
+
+}
